@@ -5,7 +5,7 @@
 //Fórmula para calcular a área A, B e C:
 // area = raiz quadradada de P(P-A)(P-B)(P-C) onde P= A+B+C / 2
 
-//Programa se Classe
+//Programa sem usar Classe
 
 //using System.Globalization;
 
@@ -61,11 +61,10 @@ y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-double p = (x.A + x.B + x.C) / 2;
-double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-p = (y.A + y.B + y.C) / 2;
-double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+double areaX = x.AreaTriangulo();
+
+double areaY = y.AreaTriangulo();
 
 Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
 Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
