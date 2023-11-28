@@ -1,0 +1,14 @@
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\bin\Debug\net6.0\Exercicio12.exe
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\bin\Debug\net6.0\Exercicio12.deps.json
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\bin\Debug\net6.0\Exercicio12.runtimeconfig.json
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\bin\Debug\net6.0\Exercicio12.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\bin\Debug\net6.0\Exercicio12.pdb
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\refint\Exercicio12.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.pdb
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\Exercicio12.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio12\Exercicio12\obj\Debug\net6.0\ref\Exercicio12.dll
