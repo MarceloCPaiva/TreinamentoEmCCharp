@@ -1,0 +1,15 @@
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\bin\Debug\net8.0\ExercicioJogoDeXadrez.exe
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\bin\Debug\net8.0\ExercicioJogoDeXadrez.deps.json
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\bin\Debug\net8.0\ExercicioJogoDeXadrez.runtimeconfig.json
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\bin\Debug\net8.0\ExercicioJogoDeXadrez.dll
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\bin\Debug\net8.0\ExercicioJogoDeXadrez.pdb
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.sourcelink.json
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.dll
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\refint\ExercicioJogoDeXadrez.dll
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.pdb
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ExercicioJogoDeXadrez.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios C#\ExercicioJogoDeXadrez\ExercicioJogoDeXadrez\obj\Debug\net8.0\ref\ExercicioJogoDeXadrez.dll
