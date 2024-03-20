@@ -2,13 +2,12 @@
 
 namespace tabuleiro
 {
-    internal class Tabuleiro
+    class Tabuleiro
     {
+
         public int linhas { get; set; }
         public int colunas { get; set; }
         private Peca[,] pecas;
-
-        public Tabuleiro() { }
 
         public Tabuleiro(int linhas, int colunas)
         {
@@ -18,11 +17,11 @@ namespace tabuleiro
         }
 
         public Peca peca(int linha, int coluna)
-        { 
+        {
             return pecas[linha, coluna];
         }
 
-        public Peca peca(Posicao pos) 
+        public Peca peca(Posicao pos)
         {
             return pecas[pos.linha, pos.coluna];
         }
@@ -49,7 +48,6 @@ namespace tabuleiro
             {
                 return null;
             }
-
             Peca aux = peca(pos);
             aux.posicao = null;
             pecas[pos.linha, pos.coluna] = null;
@@ -69,7 +67,7 @@ namespace tabuleiro
         {
             if (!posicaoValida(pos))
             {
-                throw new TabuleiroException("Posição inválida");
+                throw new TabuleiroException("Posição inválida!");
             }
         }
     }

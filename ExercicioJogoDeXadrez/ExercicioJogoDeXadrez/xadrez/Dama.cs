@@ -3,9 +3,13 @@ using tabuleiro;
 
 namespace xadrez
 {
+
     class Dama : Peca
     {
-        public Dama(Tabuleiro tab, Cor cor) : base(cor, tab) { }
+
+        public Dama(Tabuleiro tab, Cor cor) : base(tab, cor)
+        {
+        }
 
         public override string ToString()
         {
@@ -24,43 +28,7 @@ namespace xadrez
 
             Posicao pos = new Posicao(0, 0);
 
-            //verificandio acima
-            pos.definirValores(posicao.linha - 1, posicao.coluna);
-            while (tab.posicaoValida(pos) && podeMover(pos))
-            {
-                mat[pos.linha, pos.coluna] = true;
-                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
-                {
-                    break;
-                }
-                pos.linha = pos.linha - 1;
-            }
-
-            //verificandio abaixo
-            pos.definirValores(posicao.linha + 1, posicao.coluna);
-            while (tab.posicaoValida(pos) && podeMover(pos))
-            {
-                mat[pos.linha, pos.coluna] = true;
-                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
-                {
-                    break;
-                }
-                pos.linha = pos.linha + 1;
-            }
-
-            //verificandio direita
-            pos.definirValores(posicao.linha, posicao.coluna + 1);
-            while (tab.posicaoValida(pos) && podeMover(pos))
-            {
-                mat[pos.linha, pos.coluna] = true;
-                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
-                {
-                    break;
-                }
-                pos.coluna = pos.coluna + 1;
-            }
-
-            //verificandio esquerda
+            // esquerda
             pos.definirValores(posicao.linha, posicao.coluna - 1);
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -69,10 +37,46 @@ namespace xadrez
                 {
                     break;
                 }
-                pos.coluna = pos.coluna - 1;
+                pos.definirValores(pos.linha, pos.coluna - 1);
             }
 
-            //Verificando Noroeste
+            // direita
+            pos.definirValores(posicao.linha, posicao.coluna + 1);
+            while (tab.posicaoValida(pos) && podeMover(pos))
+            {
+                mat[pos.linha, pos.coluna] = true;
+                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
+                {
+                    break;
+                }
+                pos.definirValores(pos.linha, pos.coluna + 1);
+            }
+
+            // acima
+            pos.definirValores(posicao.linha - 1, posicao.coluna);
+            while (tab.posicaoValida(pos) && podeMover(pos))
+            {
+                mat[pos.linha, pos.coluna] = true;
+                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
+                {
+                    break;
+                }
+                pos.definirValores(pos.linha - 1, pos.coluna);
+            }
+
+            // abaixo
+            pos.definirValores(posicao.linha + 1, posicao.coluna);
+            while (tab.posicaoValida(pos) && podeMover(pos))
+            {
+                mat[pos.linha, pos.coluna] = true;
+                if (tab.peca(pos) != null && tab.peca(pos).cor != cor)
+                {
+                    break;
+                }
+                pos.definirValores(pos.linha + 1, pos.coluna);
+            }
+
+            // NO
             pos.definirValores(posicao.linha - 1, posicao.coluna - 1);
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -84,7 +88,7 @@ namespace xadrez
                 pos.definirValores(pos.linha - 1, pos.coluna - 1);
             }
 
-            //Verificando Nordeste
+            // NE
             pos.definirValores(posicao.linha - 1, posicao.coluna + 1);
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -96,7 +100,7 @@ namespace xadrez
                 pos.definirValores(pos.linha - 1, pos.coluna + 1);
             }
 
-            //Verificando Sudeste
+            // SE
             pos.definirValores(posicao.linha + 1, posicao.coluna + 1);
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -108,7 +112,7 @@ namespace xadrez
                 pos.definirValores(pos.linha + 1, pos.coluna + 1);
             }
 
-            //Verificando Sudoeste
+            // SO
             pos.definirValores(posicao.linha + 1, posicao.coluna - 1);
             while (tab.posicaoValida(pos) && podeMover(pos))
             {
@@ -117,7 +121,7 @@ namespace xadrez
                 {
                     break;
                 }
-                pos.definirValores(pos.linha + 1, pos.coluna + 1);
+                pos.definirValores(pos.linha + 1, pos.coluna - 1);
             }
 
             return mat;
