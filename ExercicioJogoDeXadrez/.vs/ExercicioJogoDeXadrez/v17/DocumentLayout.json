@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|d:\\programa\u00E7\u00E3o\\projetos\\exerc\u00EDcios c#\\exerciciojogodexadrez\\exerciciojogodexadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|solutionrelative:exerciciojogodexadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|d:\\programa\u00E7\u00E3o\\projetos\\exerc\u00EDcios c#\\exerciciojogodexadrez\\exerciciojogodexadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|solutionrelative:exerciciojogodexadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|d:\\programa\u00E7\u00E3o\\projetos\\exerc\u00EDcios c#\\exerciciojogodexadrez\\exerciciojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|solutionrelative:exerciciojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|d:\\programa\u00E7\u00E3o\\projetos\\exerc\u00EDcios c#\\exerciciojogodexadrez\\exerciciojogodexadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|solutionrelative:exerciciojogodexadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|d:\\programa\u00E7\u00E3o\\projetos\\exerc\u00EDcios c#\\exerciciojogodexadrez\\exerciciojogodexadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30768AF3-3681-45BC-BCE7-B0D888DBD7AA}|ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez.csproj|solutionrelative:exerciciojogodexadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "ExercicioJogoDeXadrez\\xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "ExercicioJogoDeXadrez\\xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAA0wKEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:04:56.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioJogoDeXadrez\\Program.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\Program.cs",
+              "RelativeToolTip": "ExercicioJogoDeXadrez\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:49:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "ExercicioJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "ExercicioJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:48:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "ExercicioJogoDeXadrez\\tabuleiro\\Posicao.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "ExercicioJogoDeXadrez\\tabuleiro\\Posicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:48:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "ExercicioJogoDeXadrez\\tabuleiro\\Peca.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Projetos\\Exerc\u00EDcios C#\\ExercicioJogoDeXadrez\\ExercicioJogoDeXadrez\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "ExercicioJogoDeXadrez\\tabuleiro\\Peca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:47:33.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
