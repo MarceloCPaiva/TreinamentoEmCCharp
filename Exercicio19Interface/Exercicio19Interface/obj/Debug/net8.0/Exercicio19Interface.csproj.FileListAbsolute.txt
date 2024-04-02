@@ -1,0 +1,15 @@
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\bin\Debug\net8.0\Exercicio19Interface.exe
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\bin\Debug\net8.0\Exercicio19Interface.deps.json
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\bin\Debug\net8.0\Exercicio19Interface.runtimeconfig.json
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\bin\Debug\net8.0\Exercicio19Interface.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\bin\Debug\net8.0\Exercicio19Interface.pdb
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.sourcelink.json
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\refint\Exercicio19Interface.dll
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.pdb
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\Exercicio19Interface.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios C#\Exercicio19Interface\Exercicio19Interface\obj\Debug\net8.0\ref\Exercicio19Interface.dll
